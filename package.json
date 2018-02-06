@@ -19,6 +19,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "web3": "^0.19.1"
+    "web3": "^0.19.1",
+    "naivechain": "git+https://github.com/ethereum-plasma/naivechain/"
   }
 }
